@@ -36,7 +36,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Create tweet threads on Inventions & Tech</h1>
+            <h1>Generate tweet threads on Inventions & Tech</h1>
           </div>
           <div className="header-subtitle">
             <h2>Write the name of the invention or technology that you want the tweet thread to be about</h2>
