@@ -50,8 +50,8 @@ body {
 
 .header-title h1 {
     width: 100%;
-    font-weight: 700;
-    font-size: 72px;
+    font-weight: 600;
+    font-size: 65px;
     letter-spacing: -4px;
     line-height: 1.2em;
     text-align: center;
@@ -321,7 +321,7 @@ textarea {
 }
 
 .output-content p {
-    text-align: center;
+    text-align: left;
     white-space: pre-line;
     color: rgba(255, 255, 255, 0.5);
 }
