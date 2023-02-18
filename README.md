@@ -1,1 +1,1 @@
-# gpt3-writer-starter
+# gpt3-writer
